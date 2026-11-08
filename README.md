@@ -20,3 +20,6 @@ Requires: Claude Code, the `ego-browser` skill (or another browser tool), and a 
 ## Notes
 - Site URLs and extraction tips were verified in Nov 2026; sites change layouts, so adjust as needed.
 - Your résumé and personal details stay on your machine; this repo contains none.
+
+## License
+Personal, non-commercial use only. Commercial use, resale, and redistribution require written permission. See `LICENSE`. (개인 취업용은 무료, 상업적 이용은 허락 필요)
